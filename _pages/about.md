@@ -8,16 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Temporary website for Matt McCoy.
-
-Temp
-======
-temp
-
-Temp2
-======
-temp
-
-Temp3
-------
-temp
+Website under construction.

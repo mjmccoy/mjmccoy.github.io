@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Temporary webiste for Matt McCoy.
+Temporary website for Matt McCoy.
 
 Temp
 ======

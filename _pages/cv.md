@@ -12,13 +12,14 @@ redirect_from:
 Education
 ======
 * Ph.D in Molecular Genetics & Genomics, Washington University in St. Louis, 2018
+  * Advisor: Andrew Yoo, PhD
 * B.A. in Biology, minor in Chemistry, University of Utah, 2011
 
 Work experience
 ======
 * 2018-Present: Postdoctoral Scholar
   * Stanford University
-  * Supervisor: Professor Andrew Fire, PhD
+  * Advisor: Andrew Fire, PhD
   
 #Skills
 #======
@@ -35,18 +36,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Temp
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
+# 
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+#  
+#Service and leadership
+#======
+#* Temp

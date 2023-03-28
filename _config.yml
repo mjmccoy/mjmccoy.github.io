@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Matt McCoy"
 title_separator          : "-"
 name                     : &name "Matt McCoy"
 description              : &description "personal description"

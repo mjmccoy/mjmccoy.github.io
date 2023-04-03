@@ -1,7 +1,7 @@
 ---
 title: "Deconstructing Stepwise Fate Conversion of Human Fibroblasts to Neurons by MicroRNAs"
 collection: publications
-#permalink: /publication/Deconstructing_Stepwise_Fate_Conversion_of_Human_Fibroblasts_to_Neurons_by_MicroRNAs_092120
+permalink: /publication/Deconstructing_Stepwise_Fate_Conversion_of_Human_Fibroblasts_to_Neurons_by_MicroRNAs_092120
 excerpt: 'Cell-fate conversion generally requires reprogramming effectors to both introduce fate programs of the target cell type and erase the identity of starting cell population. Here, we reveal insights into the activity of microRNAs miR-9/9∗ and miR-124 (miR-9/9∗-124) as reprogramming agents that orchestrate direct conversion of human fibroblasts into motor neurons by first eradicating fibroblast identity and promoting uniform transition to a neuronal state in sequence. We identify KLF-family transcription factors as direct target genes for miR-9/9∗-124 and show their repression is critical for erasing fibroblast fate. Subsequent gain of neuronal identity requires upregulation of a small nuclear RNA, RN7SK, which induces accessibilities of chromatin regions and neuronal gene activation to push cells to a neuronal state. Our study defines deterministic components in the microRNA-mediated reprogramming cascade.'
 date: 2020-09-21
 venue: 'Cell Stem Cell'

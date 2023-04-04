@@ -91,7 +91,7 @@ Service & Outreach
 * Podcast Interview, From Our Neurons to Yours, Stanford University	(2023)
   * “The Octopus Brain.” Nick Weiler.
   * Link: https://open.spotify.com/episode/3TQGAcEBgskUjgtztSD50x?si=2e70159aa4804450
-* Podcast Interview, The Synapse by Simply Neuroscience, a student-run podcast series	In Production
+* Podcast Interview, The Synapse by Simply Neuroscience, a student-run podcast series	(In Production)
   * “The College Neuroscience Network: Stanford University from a Postdoctoral Researcher.”
   * Tony Zhang.
 * Printed Interview, Wu Tsai Neurosciences Institute, Stanford University	(2022)

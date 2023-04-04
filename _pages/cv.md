@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](../files/mccoy_cv.pdf)
-
 {% include base_path %}
 
 Education

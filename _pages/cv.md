@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Molecular Genetics & Genomics (2018)
   * Washington University in St. Louis, St. Louis, MO
-  * Advisor: Andrew Yoo, PhD
+  * Advisor: Andrew S. Yoo, PhD
   * Thesis: Defining neuronal identity using microRNA-mediated neuronal reprogramming
 * B.A. in Biology, minor in Chemistry (2011)
   * University of Utah, Salt Lake City, UT (2008-2011)
@@ -23,7 +23,7 @@ Research experience
 ======
 * Postdoctoral Scholar (2018-Present)
   * Department of Pathology, Stanford University School of Medicine, Stanford, CA
-  * Advisor: Andrew Fire, PhD
+  * Advisor: Andrew Z. Fire, PhD
   * Project: Investigating the causes and consequences of gene size expansion during nervous system evolution.
 * Graduate Student (2012-2018)
   * Department of Developmental Biology, Washington University in St. Louis, St. Louis, MO
@@ -31,7 +31,7 @@ Research experience
   * Project: Defining neuronal identity using microRNA-mediated reprogramming of human skin cells to neurons.
 * Laboratory Technician	(2008-2012)
   * Department of Pediatrics, Division of Neonatology, University of Utah, Salt Lake City, UT
-  * PI: Kurt Albertine, Ph.D.
+  * PI: Kurt H. Albertine, Ph.D.
   * Project: Characterizing molecular morphologies of acute and chronic lung injury in a sheep (Ovis aries) model.
 * Undergraduate Research (2007–2008)
   * Department of Zoology, University of Hawaii at Manoa, Honolulu, HI
@@ -76,7 +76,7 @@ Teaching experience
 * Teaching Assistant/Mentor; BIOL 12 Genomics Data Sciences	(Spring 2022)
   * Clovis Community College, Fresno, CA
   * Professor Rosa Alcazar
-* Mentor to Lorenzo Angcanan Del Rosario, Stanford undergraduate student	(Summer 2021)
+* Mentor to Stanford undergraduate student	(Summer 2021)
   * Stanford Bio-X
   * Stanford University, Stanford, CA
 * Teaching Assistant; Principles of the Nervous System	(Fall 2014)

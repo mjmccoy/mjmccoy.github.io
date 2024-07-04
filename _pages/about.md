@@ -18,8 +18,7 @@ expression to promote neuronal maturity. _Proceedings of the National Academy of
 118(22):e2015454118 (2021). DOI: [https://doi.org/10.1073/pnas.2015454118](https://doi.org/10.1073/pnas.2015454118)
 5. Cates K*, McCoy MJ*, Kwon JS*, Liu Y*, Abernathy DG, Zhang B, Liu S, Gontarz P, Kim WK, Chen S,
 Kong W, Ho JN, Burbach KF, Gabel HW, Morris SA, and Yoo AS. Deconstructing stepwise fate
-conversion of human fibroblasts to neurons by MicroRNAs. _Cell Stem Cell_ 28, 127-140, e9 (2020).DOI:
-[https://doi.org/10.1016/j.stem.2020.08.015](https://doi.org/10.1016/j.stem.2020.08.015).([Herdy et al. Dispatch](https://doi.org/10.1016/j.stem.2020.12.007)). *Co-first author.
+conversion of human fibroblasts to neurons by MicroRNAs. _Cell Stem Cell_ 28, 127-140, e9 (2020). DOI: [https://doi.org/10.1016/j.stem.2020.08.015](https://doi.org/10.1016/j.stem.2020.08.015).([Herdy et al. Dispatch](https://doi.org/10.1016/j.stem.2020.12.007)). *Co-first author.
 6. McCoy MJ and Fire AZ. Intron and gene size expansion during nervous system evolution. BMC Genomics
 21, 360 (2020). DOI: [[https://doi.org/10.1186/s1 2864-020-6760-4](https://doi.org/10.1186/s12864-020-6760-4)([Stanford Wu Tsai Neuroscience Institute Q&A](https://neuroscience.stanford.edu/news/qa-evolution-octopus-and-squid-brains-could-shed-light-origins-intelligence))
 7. Wahba L*, Jain N*, Fire AZ*, Shoura MJ*, Artiles KL*, McCoy MJ* and Jeong DE*. An Extensive Meta-

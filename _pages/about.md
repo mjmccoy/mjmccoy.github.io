@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I work on understanding gene architecture evolution and its roles in driving both the molecular diversity and complexity of nervous systems, as well as the breakdown of these systems in disease. Leveraging my formal training in molecular genetics, genomics and neurobiology, I develop and use computational methods for comparative and functional genomics in classical and emerging model systems including octopus and squid, nematodes, fish, and human cell fate reprogramming.
+I work on understanding gene architecture evolution and its roles in driving both the molecular diversity and complexity of nervous systems, as well as the breakdown of these systems in disease. Leveraging my background in molecular genetics, genomics and neurobiology, I develop and use computational methods for comparative and functional genomics in classical and emerging model systems including octopus and squid, nematodes, fish, and human cell fate reprogramming.
 
 # Experience
 

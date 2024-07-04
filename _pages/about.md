@@ -9,6 +9,43 @@ redirect_from:
 ---
 I work on understanding gene architecture evolution and its role in driving molecular diversity and complexity, as well as its breakdown in disease. Leveraging my formal training in molecular genetics and genomics, I develop and use computational methods for comparative and functional genomics in classical and emerging model systems including octopus and squid, nematodes, fish, and human cell fate reprogramming.
 
+# Education
+* Ph.D in Molecular Genetics & Genomics (2018)
+  * Washington University in St. Louis, St. Louis, MO
+  * Advisor: Andrew S. Yoo, PhD
+  * Thesis: Defining neuronal identity using microRNA-mediated neuronal reprogramming
+* B.A. in Biology, minor in Chemistry (2011)
+  * University of Utah, Salt Lake City, UT (2008-2011)
+  * University of Hawaii at Manoa, Honolulu, HI (2005-2008)
+
+# Research experience
+* Postdoctoral Scholar (2018-Present)
+  * Department of Pathology, Stanford University School of Medicine, Stanford, CA
+  * Advisor: Andrew Z. Fire, PhD
+  * Project: Investigating the causes and consequences of gene size expansion during nervous system evolution.
+* Laboratory Technician	(2008-2012)
+  * Department of Pediatrics, Division of Neonatology, University of Utah, Salt Lake City, UT
+  * PI: Kurt H. Albertine, Ph.D.
+  * Project: Characterizing molecular morphologies of acute and chronic lung injury in a sheep (Ovis aries) model.
+* Undergraduate Research (2007–2008)
+  * Department of Zoology, University of Hawaii at Manoa, Honolulu, HI
+  * PI: Steve Robinow, Ph.D.
+  * Project: Characterizing neuronal nuclear hormone receptor (DHR51) in Drosophila melanogaster.
+
+# Fellowships
+* Whitman Early Career Award	(Summer 2023)
+  * Marine Biological Laboratory, Woods Hole, MA
+* Wu Tsai Interdisciplinary Scholar	(2021 – 2022)
+  * Stanford University, Stanford, CA
+* Whitman Early Career Award	(Summer 2019)
+  * Marine Biological Laboratory, Woods Hole, MA
+* Stanford Genome Training Grant Post-Doctoral Fellowship	(2018 – 2019)
+  * Institutional National Research Service Award (T32HG000044; Snyder, PI)
+* Grass Fellowship in Neuroscience	(Summer 2018)
+  * Marine Biological Laboratory, Woods Hole, MA
+* Interface of Psychology, Neuroscience & Genetics Pre-Doctoral Fellowship	(2014 – 2015)
+  * Institutional National Research Service Award (T32GM081739; Barch, PI)
+
 # Publications
 1. Herbert A, Lee D, McCoy MJ, Wucherpfennig J, Behrens V, Kingsley D. Genetic mechanisms of axial patterning in Apeltes quadracus. _Evolution Letters_ (2024). (In Press)
 2. McCoy MJ and Fire AZ. Parallel gene size and isoform expansion of ancient neuronal genes. _Current Biology_ (2024), S0960982224001635. DOI: [10.1016/j.cub.2024.02.021](10.1016/j.cub.2024.02.021). ([Moroz Dispatch](https://doi.org/10.1016/j.cub.2024.03.016))([Stanford Wu Tsai Neurosciences Institute News](https://neuroscience.stanford.edu/news/neuronal-and-synaptic-genes-expanded-size-and-diversity-during-evolution))([PreLights Review](https://prelights.biologists.com/highlights/ancient-origins-of-complex-neuronal-genes/)). 

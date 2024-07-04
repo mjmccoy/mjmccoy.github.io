@@ -9,46 +9,26 @@ redirect_from:
 ---
 I work on understanding gene architecture evolution and its role in driving molecular diversity and complexity, as well as its breakdown in disease. Leveraging my formal training in molecular genetics and genomics, I develop and use computational methods for comparative and functional genomics in classical and emerging model systems including octopus and squid, nematodes, fish, and human cell fate reprogramming.
 
-# Education
-* Ph.D in Molecular Genetics & Genomics (2018)
-  * Washington University in St. Louis, St. Louis, MO
-  * Advisor: Andrew S. Yoo, PhD
-  * Thesis: Defining neuronal identity using microRNA-mediated neuronal reprogramming
-* B.A. in Biology, minor in Chemistry (2011)
-  * University of Utah, Salt Lake City, UT (2008-2011)
-  * University of Hawaii at Manoa, Honolulu, HI (2005-2008)
-
-# Research experience
-* Postdoctoral Fellow (2018-Present)
-  * Department of Pathology, Stanford University School of Medicine, Stanford, CA
-  * Advisor: Andrew Z. Fire, PhD
-  * Project: Investigating the causes and consequences of gene size expansion during nervous system evolution.
-* Laboratory Technician	(2008-2012)
-  * Department of Pediatrics, Division of Neonatology, University of Utah, Salt Lake City, UT
-  * PI: Kurt H. Albertine, Ph.D.
-  * Project: Characterizing molecular morphologies of acute and chronic lung injury in a sheep (Ovis aries) model.
-* Undergraduate Research (2007–2008)
-  * Department of Zoology, University of Hawaii at Manoa, Honolulu, HI
-  * PI: Steve Robinow, Ph.D.
-  * Project: Characterizing neuronal nuclear hormone receptor (DHR51) in Drosophila melanogaster.
+# Experience
+|           |                                                    |
+| --------- | -------------------------------------------------- |
+| 2018-2023 | Postdoc -- Stanford University -- advised by Andy Fire |
+| 2012-2018 | PhD -- WashU in St. Louis -- advised by Andrew Yoo     |
+| 2005-2011 | BA Biology, minor in Chemistry -- University of Utah |
 
 # Fellowships
-* Whitman Early Career Award	(Summer 2023)
-  * Marine Biological Laboratory, Woods Hole, MA
-* Wu Tsai Interdisciplinary Scholar	(2021 – 2022)
-  * Stanford University, Stanford, CA
-* Whitman Early Career Award	(Summer 2019)
-  * Marine Biological Laboratory, Woods Hole, MA
-* Stanford Genome Training Grant Post-Doctoral Fellowship	(2018 – 2019)
-  * Institutional National Research Service Award (T32HG000044; Snyder, PI)
-* Grass Fellowship in Neuroscience	(Summer 2018)
-  * Marine Biological Laboratory, Woods Hole, MA
-* Interface of Psychology, Neuroscience & Genetics Pre-Doctoral Fellowship	(2014 – 2015)
-  * Institutional National Research Service Award (T32GM081739; Barch, PI)
+|           |                                             |
+| --------- | --------------------------------------------|
+| 2023      | Whitman Early Career Award, MBL             |
+| 2021-2022 | Wu Tsai Interdisciplinary Scholar, Stanford	|
+| 2019      | Whitman Early Career Award, MBL             |
+| 2018-2019 | Stanford Genome Training Grant, Stanford    |
+| 2018      | Grass Fellowship in Neuroscience, MBL       |
+| 2014-2015 | IPNG Training Grant, WashU                  |
 
 # Publications
 1. Herbert A, Lee D, McCoy MJ, Wucherpfennig J, Behrens V, Kingsley D. Genetic mechanisms of axial patterning in Apeltes quadracus. _Evolution Letters_ (2024). (In Press)
-2. McCoy MJ and Fire AZ. Parallel gene size and isoform expansion of ancient neuronal genes. _Current Biology_ (2024), S0960982224001635. DOI: [10.1016/j.cub.2024.02.021](10.1016/j.cub.2024.02.021). ([Moroz Dispatch](https://doi.org/10.1016/j.cub.2024.03.016))([Stanford Wu Tsai Neurosciences Institute News](https://neuroscience.stanford.edu/news/neuronal-and-synaptic-genes-expanded-size-and-diversity-during-evolution))([PreLights Review](https://prelights.biologists.com/highlights/ancient-origins-of-complex-neuronal-genes/)). 
+2. McCoy MJ and Fire AZ. Parallel gene size and isoform expansion of ancient neuronal genes. _Current Biology_ (2024), S0960982224001635. DOI: [https://doi.org/10.1016/j.cub.2024.02.021](https://doi.org/10.1016/j.cub.2024.02.021). ([Moroz Dispatch](https://doi.org/10.1016/j.cub.2024.03.016))([Stanford Wu Tsai Neurosciences Institute News](https://neuroscience.stanford.edu/news/neuronal-and-synaptic-genes-expanded-size-and-diversity-during-evolution))([PreLights Review](https://prelights.biologists.com/highlights/ancient-origins-of-complex-neuronal-genes/)). 
 3. Baden T, Briseño J, Coffing G, Cohen-Bodénès S, Courtney A, Dickerson D, Dölen G, Fiorito G, Gestal C, Gustafson T, Heath-Heckman E, Hua Q, Imperadore P, Kimbara R, Król M, Lajbner Z, Lichilín N, Macchi F, McCoy MJ, Nishiguchi M K, Nyholm S V, Otjacques E, Pérez-Ferrer P A, Ponte G, Pungor J R, Rogers T F, Rosenthal J J C, Rouressol L, Rubas N, Sanchez G, Pereira C, Schultz D T, Seuntjens E, Songco-Casey J O, Stewart I E, Styfhals R, Tuanapaya S, Vijayan N, Weissenbacher A, Zifcakova L, Schulz G, Weertman W, Simakov O, Albertin C. Cephalopod-omics: emerging fields and technologies in cephalopod molecular biology and evolution. _Biology. Integr. Comp. Biol._ (2023). DOI: [https://doi.org/10.1093/icb/icad087](https://doi.org/10.1093/icb/icad087)
 4. Lu YL, Liu Y, McCoy MJ, and Yoo AS. MiR-124 synergism with ELAVL3 enhances target gene
 expression to promote neuronal maturity. _Proceedings of the National Academy of Sciences_

@@ -19,7 +19,7 @@ I work on understanding gene architecture evolution and its role in driving mole
   * University of Hawaii at Manoa, Honolulu, HI (2005-2008)
 
 # Research experience
-* Postdoctoral Scholar (2018-Present)
+* Postdoctoral Fellow (2018-Present)
   * Department of Pathology, Stanford University School of Medicine, Stanford, CA
   * Advisor: Andrew Z. Fire, PhD
   * Project: Investigating the causes and consequences of gene size expansion during nervous system evolution.

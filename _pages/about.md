@@ -10,21 +10,21 @@ redirect_from:
 I work on understanding gene architecture evolution and its role in driving molecular diversity and complexity, as well as its breakdown in disease. Leveraging my formal training in molecular genetics and genomics, I develop and use computational methods for comparative and functional genomics in classical and emerging model systems including octopus and squid, nematodes, fish, and human cell fate reprogramming.
 
 # Experience
-|           |                                                    |
-| --------- | -------------------------------------------------- |
+| Years     | Experience                                             |
+| --------- | ------------------------------------------------------ |
 | 2018-2023 | Postdoc -- Stanford University -- advised by Andy Fire |
 | 2012-2018 | PhD -- WashU in St. Louis -- advised by Andrew Yoo     |
-| 2005-2011 | BA Biology, minor in Chemistry -- University of Utah |
+| 2005-2011 | BA Biology, minor in Chemistry -- University of Utah   |
 
 # Fellowships
-|           |                                             |
-| --------- | --------------------------------------------|
-| 2023      | Whitman Early Career Award, MBL             |
-| 2021-2022 | Wu Tsai Interdisciplinary Scholar, Stanford	|
-| 2019      | Whitman Early Career Award, MBL             |
-| 2018-2019 | Stanford Genome Training Grant, Stanford    |
-| 2018      | Grass Fellowship in Neuroscience, MBL       |
-| 2014-2015 | IPNG Training Grant, WashU                  |
+| Years     | Fellowship                                   |
+| --------- | -------------------------------------------- |
+| 2023      | Whitman Early Career Award, MBL              |
+| 2021-2022 | Wu Tsai Interdisciplinary Scholar, Stanford	 |
+| 2019      | Whitman Early Career Award, MBL              |
+| 2018-2019 | Stanford Genome Training Grant, Stanford     |
+| 2018      | Grass Fellowship in Neuroscience, MBL        |
+| 2014-2015 | IPNG Training Grant, WashU                   |
 
 # Publications
 1. Herbert A, Lee D, McCoy MJ, Wucherpfennig J, Behrens V, Kingsley D. Genetic mechanisms of axial patterning in Apeltes quadracus. _Evolution Letters_ (2024). (In Press)

@@ -10,6 +10,7 @@ redirect_from:
 I work on understanding gene architecture evolution and its role in driving molecular diversity and complexity, as well as its breakdown in disease. Leveraging my formal training in molecular genetics and genomics, I develop and use computational methods for comparative and functional genomics in classical and emerging model systems including octopus and squid, nematodes, fish, and human cell fate reprogramming.
 
 # Experience
+
 | Years     | Experience                                             |
 | --------- | ------------------------------------------------------ |
 | 2018-2023 | Postdoc -- Stanford University -- advised by Andy Fire |
@@ -17,6 +18,7 @@ I work on understanding gene architecture evolution and its role in driving mole
 | 2005-2011 | BA Biology, minor in Chemistry -- University of Utah   |
 
 # Fellowships
+
 | Years     | Fellowship                                   |
 | --------- | -------------------------------------------- |
 | 2023      | Whitman Early Career Award, MBL              |

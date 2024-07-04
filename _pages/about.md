@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I work on understanding gene architecture evolution and its role in driving molecular diversity and complexity, as well as its breakdown in disease. Leveraging my formal training in molecular genetics and genomics, I develop and use computational methods for comparative and functional genomics in emerging cephalopod model systems (octopus and squid) and human cell fate reprogramming.
+I work on understanding gene architecture evolution and its role in driving molecular diversity and complexity, as well as its breakdown in disease. Leveraging my formal training in molecular genetics and genomics, I develop and use computational methods for comparative and functional genomics in classical and emerging model systems including octopus and squid, nematodes, fish, and human cell fate reprogramming.
 
 # Publications
 1. Herbert A, Lee D, McCoy MJ, Wucherpfennig J, Behrens V, Kingsley D. Genetic mechanisms of axial patterning in Apeltes quadracus. _Evolution Letters_ (2024). (In Press)

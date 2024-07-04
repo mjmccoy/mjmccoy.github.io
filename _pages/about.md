@@ -11,11 +11,11 @@ I work on understanding gene architecture evolution and its role in driving mole
 
 # Experience
 
-| Years     | Experience                                             |
-| --------- | ------------------------------------------------------ |
-| 2018-2023 | Postdoc -- Stanford University -- advised by Andy Fire |
-| 2012-2018 | PhD -- WashU in St. Louis -- advised by Andrew Yoo     |
-| 2005-2011 | BA Biology, minor in Chemistry -- University of Utah   |
+| Years        | Experience                                             |
+| ------------ | ------------------------------------------------------ |
+| 2018-Present | Postdoc -- Stanford University -- advised by Andy Fire |
+| 2012-2018    | PhD -- WashU in St. Louis -- advised by Andrew Yoo     |
+| 2005-2011    | BA Biology, minor in Chemistry -- University of Utah   |
 
 # Fellowships
 

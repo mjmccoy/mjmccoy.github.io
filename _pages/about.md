@@ -9,8 +9,6 @@ redirect_from:
 ---
 I work on understanding gene architecture evolution and its role in driving molecular diversity and complexity, as well as its breakdown in disease. Leveraging my formal training in molecular genetics and genomics, I develop and use computational methods for comparative and functional genomics in emerging cephalopod model systems (octopus and squid) and human cell fate reprogramming.
 
-Contact: mjmccoy@stanford.edu
-
 # Publications
 1. Herbert A, Lee D, McCoy MJ, Wucherpfennig J, Behrens V, Kingsley D. Genetic mechanisms of axial patterning in Apeltes quadracus. Evolution Letters (2024). (In Press)
 2. McCoy MJ and Fire AZ. Parallel gene size and isoform expansion of ancient neuronal genes. Current Biology (2024), S0960982224001635. DOI: 10.1016/j.cub.2024.02.021.

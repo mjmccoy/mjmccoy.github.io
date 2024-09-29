@@ -52,6 +52,6 @@ neuronal subtype-specific reprogramming of adult human fibroblasts. _Cell Stem C
 quantitative investigations of gene sets. (Submitted)
 2. Herbert AL\*, Allard CAH\*, McCoy MJ\*, Wucherpfennig JI, Krueger SP, Chen HI, Gourlay AN, Jackson
 KD, Abbo LA, Bennett SH, Sears JD, Rhyne AL, Bellono NW, Kingsley DM. The genetic basis of novel
-trait gain in walking fish. _bioRxiv_ (2023). DOI: [https://doi.org/10.1101/2023.10.14.562356](https://doi.org/10.1101/2023.10.14.562356). *Co-first author. (Now in press at _Current Biology_)
+trait gain in walking fish. _bioRxiv_ (2023). DOI: [https://doi.org/10.1101/2023.10.14.562356](https://doi.org/10.1101/2023.10.14.562356). *Co-first author. (Now published in _Current Biology_)
 3. McCoy MJ and Fire AZ. Ancient origins of complex neuronal genes. _bioRxiv_ (2023). DOI: [https://doi.org/10.1101/2023.03.28.534655](https://doi.org/10.1101/2023.03.28.534655). (Now published in _Current Biology_)
 4. Wahba L\*, Jain N\*, Fire AZ\*, Shoura M\*, Artiles K\*, McCoy MJ\*, Jeong DE\*. Identification of a pangolin niche for a 2019-nCoV-like coronavirus through an extensive meta-metagenomic search. _bioRxiv_ (2020). DOI: [https://doi.org/10.1101/2020.02.08.939660](https://doi.org/10.1101/2020.02.08.939660). *All authors contributed equally. (Now published in _mSphere_)

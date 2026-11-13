@@ -83,7 +83,7 @@ author:
   name             : "Matt McCoy, PhD"
   avatar           : "mccoy_skinny_headshot.png"
   bio              : "Director of Computational Biology | Phinomics\n Pathways to Independence Instructor | University of Chicago"
-  location         : "Stanford, CA"
+  location         : 
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=McCoy+MJ&cauthor_id=28886366"
   googlescholar    : "https://scholar.google.com/citations?user=VTlZQF0AAAAJ&hl=en&oi=ao"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mj_mccoy"
+  twitter          :
   vine             :
   weibo            :
   xing             :

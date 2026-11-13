@@ -13,6 +13,8 @@ I investigate gene architecture and regulation, especially within nervous system
 
 | Years        | Experience                                             |
 | ------------ | ------------------------------------------------------ |
+| 2026-Present | Director of Computational Biology -- Phinomics Inc |
+| 2024-Present | Pathways to Independence Instructor -- University of Chicago |
 | 2018-Present | Postdoc -- Stanford University -- advised by Andy Fire |
 | 2012-2018    | PhD -- WashU in St. Louis -- advised by Andrew Yoo     |
 | 2005-2011    | BA Biology, minor in Chemistry -- University of Utah   |

@@ -21,6 +21,10 @@ Education
 
 Research experience
 ======
+* Director of Computational Biology (2026-Present)
+  * Phinomics Inc, San Carlos, CA
+* Pathways to Independence Instructor (2024-Present)
+  * Department of Organismal Biology & Anatomy, University of Chicago, Chicago, IL
 * Postdoctoral Scholar (2018-Present)
   * Department of Pathology, Stanford University School of Medicine, Stanford, CA
   * Advisor: Andrew Z. Fire, PhD

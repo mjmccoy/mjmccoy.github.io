@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I investigate gene architecture and regulation, especially within nervous systems. Using my background in molecular genetics, genomics and neurobiology, I develop experimental and computational methods for comparative and functional genomics. I apply these methods in classical and emerging model systems including octopus and squid, nematodes, fish, and human cell fate reprogramming.
-
 # Experience
 
 | Years        | Experience                                             |
